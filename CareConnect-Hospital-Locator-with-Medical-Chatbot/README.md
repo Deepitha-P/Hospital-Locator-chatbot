@@ -22,7 +22,8 @@
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/Bevinaa/CareConnect-Hospital-Locator-with-Medical-Chatbot.git
+    
+    git clone https://github.com/Deepitha-P/Hospital-Locator-chatbot.git
     ```
 
 2. **Navigate to the project directory:**
@@ -119,9 +120,9 @@ We welcome contributions to enhance the CARECONNECT project. If you would like t
 
 For questions or further information, please contact:
 
-- **Name:** Bevina R
-- **Email:** bevina2110@gmail.com
-- **GitHub:** [yourusername](https://github.com/Bevinaa)
+- **Name:** Deepitha P
+- **Email:** pdeepitha@gmail.com
+- **GitHub:** [yourusername](https://github.com/Deepitha-P)
 
 ## Implementation
 
