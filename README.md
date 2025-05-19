@@ -122,7 +122,7 @@ For questions or further information, please contact:
 
 - **Name:** Deepitha P
 - **Email:** pdeepitha@gmail.com
-- **GitHub:** [yourusername](https://github.com/Deepitha-P)
+- **GitHub:** [Deepitha-P](https://github.com/Deepitha-P)
 
 ## Implementation
 
